@@ -1,0 +1,13 @@
+{
+  "name": "squareninety.com",
+  "version": "1.0.0",
+  "description": "Square Ninety",
+  "main": "index.html",
+  "repository": "https://github.com/claysquareninety/squareninety.com.git",
+  "author": "Clay Schumacher <clay@squareninety.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "frow": "^3.3.2"
+  }
+}
